@@ -3,6 +3,8 @@ date_format: "MMM DD, YYYY"
 
 global:
     home: "Home"
+    favorite_links: "Favorite Links"
+    friends_of_la: "Friends of LA"
     categories: "Categories"
     category: "Category"
     tags: "Tags"
@@ -57,6 +59,6 @@ post:
 
 author:
     # Your biography (Markdown and HTML supported)
-    bio: ""
+    bio: "LordAlex Leon | Creative Technologist"
     # Your job
-    job: ""
+    job: "I create Rich Internet Applications for desktop and mobile devices."

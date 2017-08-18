@@ -223,22 +223,22 @@ sidebar:
             url: /#about
             icon: question
     author_links:
-        # github:
-        #     title: GitHub
-        #     url: https://github.com/
-        #     icon: github
+         github:
+             title: GitHub
+             url: https://github.com/lordalex
+             icon: github
         # stack_overflow:
         #     title: Stack Overflow
         #     url: http://stackoverflow.com/users/
         #     icon: stack-overflow
-        # twitter:
-        #     title: Twitter
-        #     url: https://twitter.com/
-        #     icon: twitter
-        # facebook:
-        #     title: Facebook
-        #     url: https://www.facebook.com/
-        #     icon: facebook
+         twitter:
+             title: Twitter
+             url: https://twitter.com/lordalex
+             icon: twitter
+         facebook:
+             title: Facebook
+             url: https://www.facebook.com/lordalex
+             icon: facebook
         # google_plus:
         #     title: Google +
         #     url: https://plus.google.com/
