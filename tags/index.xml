@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on LordAlex Leon</title>
+    <link>https://lordalex.github.io/tags/</link>
+    <description>Recent content in Tags on LordAlex Leon</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 15 Aug 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://lordalex.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>bio</title>
+      <link>https://lordalex.github.io/tags/bio/</link>
+      <pubDate>Sun, 15 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://lordalex.github.io/tags/bio/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>html elements</title>
+      <link>https://lordalex.github.io/tags/html-elements/</link>
+      <pubDate>Thu, 28 May 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://lordalex.github.io/tags/html-elements/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>markdown</title>
+      <link>https://lordalex.github.io/tags/markdown/</link>
+      <pubDate>Thu, 28 May 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://lordalex.github.io/tags/markdown/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>cover image</title>
+      <link>https://lordalex.github.io/tags/cover-image/</link>
+      <pubDate>Wed, 13 May 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://lordalex.github.io/tags/cover-image/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
